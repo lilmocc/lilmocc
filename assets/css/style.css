@@ -32,3 +32,15 @@ h4 {
 .jumbotron {
   background: #fff;
 }
+
+.icondiv {
+  width: 100%;
+  text-align:center;
+  position: absolute;
+bottom: 10px;
+}
+
+.socialicons {
+  max-width: 50px;
+  margin: 25px 10px;
+}
